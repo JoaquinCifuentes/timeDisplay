@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-family: "Sarpanch", sans-serif;
+}
+header {
+  background-color: #d44eab;
+  width: 80%;
+  border-radius: 30px;
+  border: 10px solid #930973;
+  margin: 20px auto;
+  text-align: center;
+  font-weight: normal;
+}
+section {
+  width: 20%;
+  padding: 15px auto;
+  background-color: #6cbfb8;
+  border-radius: 5px;
+  border: 3px solid #326b70;
+  margin: 30px auto;
+}
+footer {
+  width: 40%;
+  margin: 40px auto;
+  border-radius: 8px;
+  background-color: #a0ddd4;
+  border: 3px solid #930973;
+  padding: 15px 10px 40px 10px;
+}
